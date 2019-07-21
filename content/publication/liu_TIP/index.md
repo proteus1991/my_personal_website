@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8386831
+url_pdf: /publication/liu_tip/liu_journal.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -47,7 +47,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/8386831
 image:
   caption: 'framework'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
