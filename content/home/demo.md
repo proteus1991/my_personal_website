@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 100  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = ""
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -46,3 +46,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<div style="width:30%; margin: auto;"><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vD7G_VLci691yc3Qtnv-FaVr9_uDVihZik-3Lm6F8so&cl=ffffff&w=a"></script><div>
