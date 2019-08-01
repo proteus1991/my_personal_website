@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="min-width:100px; width:30%; margin: auto;"><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=vD7G_VLci691yc3Qtnv-FaVr9_uDVihZik-3Lm6F8so"></script><div>
+<div style="width:30%; margin: auto;"><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=vD7G_VLci691yc3Qtnv-FaVr9_uDVihZik-3Lm6F8so"></script><div>
