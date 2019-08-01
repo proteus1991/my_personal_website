@@ -1,1 +1,1 @@
-# [My personal website](xiaohongliu.ca)
+# [My personal website](http://xiaohongliu.ca)
