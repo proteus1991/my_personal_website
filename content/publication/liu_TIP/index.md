@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Image Processing, 27*(10), 4971-4986"
 publication_short: ""
 
-abstract: Multi-frame image super-resolution focuses on reconstructing a high-resolution image from a set of low-resolution images with high similarity. Combining image prior knowledge with fidelity model, the Bayesian-based methods have been considered as an effective technique in super-resolution. The minimization function derived from maximum a posteriori probability (MAP) is composed of a fidelity term and a regularization term. In this paper, based on the MAP estimation, we propose a novel initialization method for super-resolution imaging. For the fidelity term in our proposed method, the half-quadratic estimation is used to choose error norm adaptively instead of using fixed L 2 norms. Besides, a spatial weight matrix is used as a confidence map to scale the estimation result. For the regularization term, we propose a novel regularization method based on adaptive bilateral total variation (ABTV). Both the fidelity term and the ABTV regularization guarantee the robustness of our framework. The fidelity term is mainly responsible for dealing with misregistration, blur, and other kinds of large errors, while the ABTV regularization aims at edge preservation and noise removal. The proposed scheme is tested on both synthetic data and real data. The experimental results illustrate the superiority of our proposed method in terms of edge preservation and noise removal over the state-of-the-art algorithms.
+abstract: "Multi-frame image super-resolution focuses on reconstructing a high-resolution image from a set of low-resolution images with high similarity. Combining image prior knowledge with fidelity model, the Bayesian-based methods have been considered as an effective technique in super-resolution. The minimization function derived from maximum a posteriori probability (MAP) is composed of a fidelity term and a regularization term. In this paper, based on the MAP estimation, we propose a novel initialization method for super-resolution imaging. For the fidelity term in our proposed method, the half-quadratic estimation is used to choose error norm adaptively instead of using fixed L 2 norms. Besides, a spatial weight matrix is used as a confidence map to scale the estimation result. For the regularization term, we propose a novel regularization method based on adaptive bilateral total variation (ABTV). Both the fidelity term and the ABTV regularization guarantee the robustness of our framework. The fidelity term is mainly responsible for dealing with misregistration, blur, and other kinds of large errors, while the ABTV regularization aims at edge preservation and noise removal. The proposed scheme is tested on both synthetic data and real data. The experimental results illustrate the superiority of our proposed method in terms of edge preservation and noise removal over the state-of-the-art algorithms."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +47,7 @@ url_pdf: /publication/liu_tip/liu_journal.pdf
 image:
   caption: 'framework'
   focal_point: ""
-  preview_only: true
+  preview_only: False
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -1,13 +1,15 @@
 ---
-title: "Robust multi-frame super-resolution with adaptive norm choice and difference curvature based BTV regularization"
+title: "GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing"
 authors:
 - admin
-- Jiying Zhao
-date: "2017-11-14"
+- Mayong Rui
+- Shizhi Hao
+- Jun Chen
+date: "2019-07-22"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2019-07-22"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,26 +18,26 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP)*"
-publication_short: In *GlobalSIP*
+publication: "*2019 International Conference on Computer Vision (ICCV)*"
+publication_short: In *ICCV 2019*
 
-abstract: "Multi-frame super-resolution focuses on reconstructing a high-resolution image from a set of low-resolution images with high similarity. The minimization function derived from maximum a posteriori probability (MAP) is composed of a fidelity term and a regularization term. In this paper, we propose a new fidelity term based on half-quadratic estimation to choose error norm adaptively instead of using fixed L1 or L2 norm. Besides, we propose a novel regularization method which combines the advantage of Difference Curvature (DC) and Bilateral Total Variation (BTV) to preserve the edge areas and remove noise simultaneously. The proposed framework is tested on both synthetic data and real data. Our experimental results illustrate the superiority of the proposed method in terms of edge preserving and noise removal over other state-of-the-art algorithms."
+abstract: "We propose an end-to-end trainable Convolutional Neural Network (CNN), named GridDehazeNet, for single image dehazing. The GridDehazeNet consists of three modules: pre-processing, backbone, and post-processing. The trainable pre-processing module can generate learned inputs with better diversity and more pertinent features as compared to those derived inputs produced by hand-selected pre-processing methods. The backbone module implements a novel attention-based multi-scale estimation on a grid network, which can effectively alleviate the bottleneck issue often encountered in the conventional multi-scale approach. The post-processing module helps to reduce the artifacts in the final output. Experimental results indicate that the GridDehazeNet outperforms the state-of-the-arts on both synthetic and real-world images. The proposed hazing method does not rely on the atmosphere scattering model, and we provide an explanation as to why it is not necessarily beneficial to take advantage of the dimension reduction offered by the atmosphere scattering model for image dehazing, even if only the dehazing results on synthetic images are concerned."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Multi-Frame Super-Resolution
+- Image Dehazing
 featured: false
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
-url_pdf: liu_conference1.pdf
+links:
+- name: Project Page
+  url: https://proteus1991.github.io/GridDehazeNet/
+# url_pdf: liu_conference1.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+# url_project: https://proteus1991.github.io/GridDehazeNet/
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

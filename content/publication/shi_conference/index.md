@@ -33,9 +33,9 @@ tags:
 - Image Retrieval
 featured: true
 
-links:
-- name: project page
-  url: '/publication/shi_conference/GatedShapeCNN.htm'
+# links:
+# - name: project page
+#   url: ''
 
 url_pdf: shi_conference.pdf
 # url_code: '#'
