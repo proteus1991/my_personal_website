@@ -33,9 +33,10 @@ tags:
 - Image Retrieval
 featured: true
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: project page
+  url: '/publication/shi_conference/GatedShapeCNN.htm'
+
 url_pdf: shi_conference.pdf
 # url_code: '#'
 # url_dataset: '#'
