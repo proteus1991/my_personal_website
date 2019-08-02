@@ -1,2 +1,2 @@
 /* Source Themes Academic v4.3.1 | https://sourcethemes.com/academic/ */
-.article-container .pub-abstract{text-align:justify}
+.article-container .pub-abstract{text-align:justify}.vistor-tracker-mobile{display:none}.vistor-tracker{margin:auto;width:max-content;display:block}@media only screen and (max-width:600px){.vistor-tracker-mobile{display:flex;justify-content:center;text-align:center;width:75%;min-width:250px;margin:auto}.vistor-tracker{display:none}}
