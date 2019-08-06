@@ -48,9 +48,9 @@ subtitle = ""
 +++
 
 <div class="vistor-tracker">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=07IWzKAp2KB_sMF8ypOV5tS7rS1m6boTJaEOEUsJIP0&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=DkSfs1qSCJNbTeagPHr182UsBss7QuGN7fUcZU2OpMI&cl=ffffff&w=a"></script>
 </div>
 
 <div class="vistor-tracker-mobile">
-  <a href="https://clustrmaps.com/site/1au6p" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=07IWzKAp2KB_sMF8ypOV5tS7rS1m6boTJaEOEUsJIP0&cl=ffffff" /></a>
+  <a href="https://clustrmaps.com/site/1au6r"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=DkSfs1qSCJNbTeagPHr182UsBss7QuGN7fUcZU2OpMI&cl=ffffff" /></a>
 </div>
