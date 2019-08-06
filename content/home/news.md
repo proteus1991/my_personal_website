@@ -8,6 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "News"
 subtitle = ""
 +++
+* [2019/08/05] I am a reviewer of WACV 2020.
 * [2019/07/31] One paper submitted to IEEE Access.
 * [2019/07/24] One paper submitted to WACV 2020.
 * [2019/07/22] One paper received by ICCV 2019. :tada::tada::tada:
