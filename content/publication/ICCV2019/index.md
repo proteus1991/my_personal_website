@@ -33,7 +33,7 @@ featured: false
 links:
 - name: Project Page
   url: https://proteus1991.github.io/GridDehazeNet/
-# url_pdf: liu_conference1.pdf
+url_pdf: /publication/iccv2019/GridDehazeNet.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
