@@ -10,7 +10,7 @@ subtitle = ""
 +++
 * [2019/08/06] One paper submmited to [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
 * [2019/08/05] I am a reviewer of WACV 2020.
-* [2019/07/31] One paper submitted to IEEE Access.
+* [2019/07/31] One paper submitted to [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046).
 * [2019/07/24] One paper submitted to WACV 2020.
 * [2019/07/22] One paper accepted in ICCV 2019. :tada::tada::tada:
 * [2019/06/26] I receive the 2019-20 Ontario Scholarship Award.
