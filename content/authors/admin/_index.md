@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -77,5 +77,5 @@ user_groups:
 - Researchers
 ---
 
-<p style="text-align: justify">I’m a Ph.D. student at McMaster University supervised by <a href="https://scholar.google.ca/citations?hl=en&user=XI79Mw0AAAAJ">Dr. Jun Chen</a>. My research directions are aimed at computer vision, machine learning and deep learning, especially in the areas of restoration, retrieval, classification and recognition. As a computer vision researcher, I’m always energetic and enthusiastic to implement the cutting-edge techniques.</p>
+<p style="text-align: justify">I’m a Ph.D. candidate at McMaster University supervised by <a href="https://scholar.google.ca/citations?hl=en&user=XI79Mw0AAAAJ">Dr. Jun Chen</a>. My research directions are aimed at computer vision, machine learning and deep learning, especially in areas of image and video restoration, retrieval, classification and recognition.</p>
 

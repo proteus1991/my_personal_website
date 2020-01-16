@@ -3,7 +3,7 @@ title: "GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing"
 authors:
 - admin
 - Mayong Rui
-- Shizhi Hao
+- Zhihao Shi
 - Jun Chen
 date: "2019-07-22"
 doi: ""
@@ -33,10 +33,10 @@ featured: false
 links:
 - name: Project Page
   url: https://proteus1991.github.io/GridDehazeNet/
-url_pdf: /publication/iccv2019/GridDehazeNet.pdf
-# url_code: '#'
+url_pdf: http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_GridDehazeNet_Attention-Based_Multi-Scale_Network_for_Image_Dehazing_ICCV_2019_paper.pdf
+url_code: https://github.com/proteus1991/GridDehazeNet
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: /publication/iccv2019/poster.pdf
 # url_project: https://proteus1991.github.io/GridDehazeNet/
 # url_slides: ''
 # url_source: '#'
@@ -75,3 +75,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 
 <!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
 
+{{< figure src="figure1.png" title="" lightbox="true" >}}
