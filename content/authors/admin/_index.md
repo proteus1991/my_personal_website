@@ -33,7 +33,7 @@ education:
     year: 2018 - current
   - course: M.A.Sc. degree in Electrical and Computer Engineering 
     institution: University of Ottawa, Canada
-    year: 2014 - 2017
+    year: 2014 - 2016
   - course: B.E. degree in Telecommunication Engineering
     institution: Southwest Jiaotong University, China
     year: 2010 - 2014

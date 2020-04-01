@@ -37,7 +37,7 @@ featured: False
 url_pdf: WACV2020.pdf
 # url_code: 
 # url_dataset: '#'
-# url_poster: 
+url_poster: poster_327.pdf
 # url_project: https://proteus1991.github.io/GridDehazeNet/
 # url_slides: ''
 # url_source: '#'
