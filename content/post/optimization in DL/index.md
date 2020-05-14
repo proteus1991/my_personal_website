@@ -13,7 +13,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Image credit: [**Thalles Silva**](https://www.freecodecamp.org/news/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394/)"
+  caption: "Image credit: Google"
   focal_point: ""
 
 # Projects (optional).
