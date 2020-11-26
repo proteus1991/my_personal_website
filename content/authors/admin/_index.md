@@ -77,5 +77,4 @@ user_groups:
 - Researchers
 ---
 
-<p style="text-align: justify">I’m a Ph.D. candidate at McMaster University supervised by <a href="https://scholar.google.ca/citations?hl=en&user=XI79Mw0AAAAJ">Dr. Jun Chen</a>. My research directions are aimed at computer vision, machine learning and deep learning, especially in areas of image and video restoration, retrieval, classification and recognition.</p>
-
+<p style="text-align: justify">I’m a Ph.D. candidate at McMaster University supervised by <a href="https://scholar.google.ca/citations?hl=en&user=XI79Mw0AAAAJ">Dr. Jun Chen</a>. My research direction aims at video and image processing based on deep learning, especially in restoration, classification, recognition, and manipulation/abnormal detection.</p>
