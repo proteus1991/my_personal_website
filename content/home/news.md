@@ -8,6 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "News"
 subtitle = ""
 +++
+* [2021-01] One paper accepted in IEEE Transactions on Image Processing. :tada::tada::tada:
 * [2020-11] Two papers submitted to CVPR 2021.
 * [2020-10] I received the NSERC Postgraduate Scholarship in Doctoral program.
 * [2020-09] I was invited to be a reviewer in IEEE Transactions on Multimedia.
