@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: liu_conference1.pdf
+url_pdf: /publication/globalsip2017/liu_conference1.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

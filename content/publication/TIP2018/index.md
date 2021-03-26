@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: /publication/liu_tip/liu_journal.pdf
+url_pdf: /publication/tip2018/liu_journal.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
